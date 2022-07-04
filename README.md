@@ -1,6 +1,6 @@
 # Genetic_risk_score
 Script used to generate genetic risk score from bgen files
-# Following scripts calls Rob's GRS script, hence need to change location if running on slade.
+
 
 
 1. generate_dosages.sh - It will take input of your bgen files and sample names and generate the dosages output for each chromomose
